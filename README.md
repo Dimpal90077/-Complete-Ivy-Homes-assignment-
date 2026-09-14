@@ -1,6 +1,7 @@
 # Ivy Homes Property Intelligence Dashboard
 🔗 **Live Application:**  
 https://laihtbzdrzinag3zlc2fm7.streamlit.app/
+
 A property discovery and analytics dashboard developed as part of the Ivy Homes internship assignment.
 
 The project focuses on transforming raw property datasets into a user-friendly platform where users can explore property listings, rental buildings, residential projects, save favourite properties, and view useful property-level insights.
