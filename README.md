@@ -1,6 +1,6 @@
 # Ivy Homes Property Intelligence Dashboard
 🔗 **Live Application:**  
-https://laihtbzdrzinag3zlc2fm7.streamlit.app/
+(https://vercel.com/hanuman8/complete-ivy-homes-assignment-tcoq)
 
 A property discovery and analytics dashboard developed as part of the Ivy Homes internship assignment.
 
